@@ -1,0 +1,17 @@
+Para inserirmos objetos em um a lista 
+funçao insert ();e
+.funçao append().
+variavel.append(objeto)       
+variavel.insert (indice, objeto)
+dadas duas listas, x e y, a sintaxe para unir a segunda lista a lista a primeira é
+x.entend(y)
+indicando que os objetos serao todos adicionados ao fnal da lista x,
+para se remover objeos de uma lista
+.funçao remove();
+.funçao pop();
+.palavrada reservada de1;
+funçao clear ()
+funçao remove () retira um determinado objeto d uma lita
+a funçao pop  () retira
+a palavra reservada de1 é 
+ a funçao so
